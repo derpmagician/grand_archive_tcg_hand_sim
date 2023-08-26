@@ -2,12 +2,19 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import { BrowserRouter, HashRouter } from "react-router-dom";
+
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <HashRouter>
+      <App />
+    </HashRouter>
+    {/* <BrowserRouter basename={process.env.NODE_ENV === 'production' ? process.env.BASENAME_PROD : process.env.BASENAME}>
+      <App />
+    </BrowserRouter> */}
   </React.StrictMode>
 );
 
