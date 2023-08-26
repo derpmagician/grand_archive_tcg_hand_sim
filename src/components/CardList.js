@@ -2,8 +2,8 @@ import React, { useState } from 'react'
 
 const CardList = () => {
   const [responseData, setResponseData] = useState(null);
-  // const url = "https://api.gatcg.com";
-  const url = "https://randomuser.me/api/?results=6"
+  const url = "https://api.gatcg.com";
+  // const url = "https://randomuser.me/api/?results=6"
 
   const getOpt = {
     method: "GET",
