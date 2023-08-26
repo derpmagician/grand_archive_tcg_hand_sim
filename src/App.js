@@ -23,9 +23,7 @@ function App() {
     <PrimeReactProvider>
       <div className="App">
         <Navbar />
-
         asa
-        
 
         <div className="card flex flex-column align-items-center">
           <span className="font-bold text-4xl mb-5">{count}</span>
