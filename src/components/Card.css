@@ -1,0 +1,41 @@
+.card {
+  font-size: 1.5em;
+}
+.effect__label {
+  font-weight: bold;
+}
+
+.effect__reminder {
+  font-size: 0.7em;
+  /* font-weight: italic; */
+}
+
+.effect__icon {
+  font-weight: bold;
+}
+
+.effect__icon{
+  font-weight: bold;
+}
+.effect__icon--sword::after {
+  content: '<i className="pi pi-pencil"></i>';
+}
+.effect__icon--rest:after {
+  content: '<i className="pi pi-check"></i>';
+}
+.effect__icon--heart:after {
+  content: '<i className="pi pi-heart-fill"></i>';
+}
+
+
+.effect__bubble {
+  font-weight: bold;
+  font-size: 0.75em;
+  outline: 1px solid black;
+  border-radius: 50%;
+  padding: 0.25em 0.5em;
+}
+
+.effect__bubble--yellow  {
+  background-color: yellow;
+}
