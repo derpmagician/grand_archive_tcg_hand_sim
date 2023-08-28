@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/grand_archive_tcg_hand_sim/static/css/main.3bc9200c.css",
-    "main.js": "/grand_archive_tcg_hand_sim/static/js/main.66ff3ebe.js",
+    "main.css": "/grand_archive_tcg_hand_sim/static/css/main.bd02291e.css",
+    "main.js": "/grand_archive_tcg_hand_sim/static/js/main.e473eb52.js",
     "static/js/787.3a4b2e50.chunk.js": "/grand_archive_tcg_hand_sim/static/js/787.3a4b2e50.chunk.js",
     "static/media/primeicons.svg": "/grand_archive_tcg_hand_sim/static/media/primeicons.e1441b135b3ca9ad643c.svg",
     "static/media/primeicons.eot": "/grand_archive_tcg_hand_sim/static/media/primeicons.d44157bdfa026dc877af.eot",
@@ -11,12 +11,12 @@
     "static/media/color.png": "/grand_archive_tcg_hand_sim/static/media/color.6441e63a57ccc5105bad.png",
     "static/media/logo.svg": "/grand_archive_tcg_hand_sim/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/grand_archive_tcg_hand_sim/index.html",
-    "main.3bc9200c.css.map": "/grand_archive_tcg_hand_sim/static/css/main.3bc9200c.css.map",
-    "main.66ff3ebe.js.map": "/grand_archive_tcg_hand_sim/static/js/main.66ff3ebe.js.map",
+    "main.bd02291e.css.map": "/grand_archive_tcg_hand_sim/static/css/main.bd02291e.css.map",
+    "main.e473eb52.js.map": "/grand_archive_tcg_hand_sim/static/js/main.e473eb52.js.map",
     "787.3a4b2e50.chunk.js.map": "/grand_archive_tcg_hand_sim/static/js/787.3a4b2e50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bc9200c.css",
-    "static/js/main.66ff3ebe.js"
+    "static/css/main.bd02291e.css",
+    "static/js/main.e473eb52.js"
   ]
 }
